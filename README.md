@@ -1,7 +1,7 @@
 # Fall Risk Prediction in Women with Type 2 Diabetes
 
 ## Overview
-This project predicts fall risk in women aged 65+ with Type 2 Diabetes, leveraging real-time data from Intermountain Health. The goal is to provide actionable insights for clinical decision-making and administrative planning.
+This project predicts fall risk in women aged 55+ with Type 2 Diabetes, leveraging real-time data from Intermountain Health. The goal is to provide actionable insights for clinical decision-making and administrative planning.
 
 ## Dataset
 - **Source**: Intermountain Health
